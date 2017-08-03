@@ -1,4 +1,4 @@
-# Rewrite Challenge
+# JSTL Challenge
 
 This test is designed to focus on your ability to review existing code and rewrite based on a set of AC. Please rewrite the file `related-box.jpt` to not only meet the AC listed below, but to also show us your ability to design clean and maintainable solutions.
 
