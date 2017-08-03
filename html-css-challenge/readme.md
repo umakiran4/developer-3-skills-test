@@ -1,6 +1,6 @@
 # HTML/CSS Challenge
 
-As front-end developers at Cox Media Group much of your work is HTML and CSS. We are looking for developers who are about to create clean, efficient, and valid code. Please use the files below to code a basic page using semantic HTML and efficient CSS. You do not have to get very detailed. We are looking for how it is done. Concentrate on quality, not speed.
+As front-end developers at Cox Media Group much of your work is HTML and CSS. We are looking for developers who can create clean, efficient, and valid code. Please use the files in this folder to code a basic page using semantic HTML and efficient CSS. You do not have to get very detailed. We are looking for how it is done. Concentrate on quality, not speed. This doesn't need to be more that a few hundred lines of code.
 
 ## User Story
 As a site owner, I want a working proof of concept (POC) of the new article page with placeholders to see placement of the components.
@@ -18,3 +18,4 @@ Cox Media Group is developing a new site to target users in a new Texas market: 
   * You are developing placeholders for the actual modules
   * You may use lorem ipsum text to fill space
 * If possible code the page to be responsive, with the vertical order of the mobile page being center well, left rail, right rail
+* JavaScript is not necessary
