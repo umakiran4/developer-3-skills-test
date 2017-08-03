@@ -1,21 +1,22 @@
 # HTML/CSS Challenge
 
-As front-end developers at Cox Media Group much of your work is HTML and CSS. We are looking for developers who can create clean, efficient, and valid code. Please use the files in this folder to code a basic page using semantic HTML and efficient CSS. You do not have to get very detailed. We are looking for how it is done. Concentrate on quality, not speed. This doesn't need to be more that a few hundred lines of code.
+This test is designed to challenge your mastery of HTML and CSS. We are looking for developers who can create clean, efficient, and valid UI code. Please use the files in this folder to code a basic page using semantic HTML and efficient CSS.
 
 ## User Story
-As a site owner, I want a working proof of concept (POC) of the new article page with placeholders to see placement of the components.
+As a site owner, I want a working proof of concept (POC) of the new article page with placeholders of the components.
 
 ## Background
-Cox Media Group is developing a new site to target users in a new Texas market: The Texas Journal. You have been assigned to task of developing a very basic news article POC for the site. The page should be responsive, complete with header, footer, body, left and right rail. Your work will be used to start actual development on the components.
+CMG business leaders have requested a new website to target new customers in its Texas market - The Texas Journal. You have been assigned the task of developing a basic news article POC for the site. The page should be responsive and include a header, footer, body, left and right rail. Your work will be used as a starting point for other developers to build the real site components.
 
 ## Acceptance Criteria
-* Write very a basic page in the file index.html, with styles in the css folder
-  * The mock for the page in attached
-  * You may use the Bootstrap library if you wish, although not required
-* You should use semantic HTML tags when possible
-* The page should be optimized for SEO
-* You do not have to code all the details, for instance colors, icons, exact dimensions, and exact text
-  * You are developing placeholders for the actual modules
-  * You may use lorem ipsum text to fill space
-* If possible code the page to be responsive, with the vertical order of the mobile page being center well, left rail, right rail
-* JavaScript is not necessary
+* Create your POC starting with a file named `index.html`.
+* The POC should:
+  * use semantic HTML tags when possible.
+  * be optimized for SEO.
+  * match the mock image attached.
+  * be responsive with 2 breakpoints: 0-992px and 992px+.
+* The order of the mobile layout should be center well, left rail, right rail.
+* You do not have to exactly match all the details such as colors, fonts, icons, exact dimensions or text.
+  * You are developing placeholders for the actual modules.
+  * You may use lorem ipsum text to fill space.
+* Since this challenge is focused on your skills with HTML and CSS, please avoid using JavaScript.
