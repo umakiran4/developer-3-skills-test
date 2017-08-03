@@ -15,8 +15,9 @@ CMG business leaders have requested a new website to target new customers in its
   * be optimized for SEO.
   * match the mock image attached.
   * be responsive with 2 breakpoints: 0-992px and 992px+.
-* The order of the mobile layout should be center well, left rail, right rail.
+* The vertical order of the mobile layout should be center well, left rail, right rail.
 * You do not have to exactly match all the details such as colors, fonts, icons, exact dimensions or text.
-  * You are developing placeholders for the actual modules.
-  * You may use lorem ipsum text to fill space.
+  * Remember you are only developing placeholders for the actual modules.
+  * Feel free to use lorem ipsum filler text.
 * Since this challenge is focused on your skills with HTML and CSS, please avoid using JavaScript.
+* We encourage the use of Bootstrap.
